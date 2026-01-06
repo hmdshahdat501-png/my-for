@@ -1,0 +1,231 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.font-open-sans{
+  font-family: "Open Sans", sans-serif;
+  
+
+}
+header{
+    background: url(/images/developer.png), url(/images/header_bg.png);
+    background-position: top left, bottom right;
+    background-repeat: no-repeat;
+    background-color: #FFF8F3;
+    padding-top: 50px;
+}
+nav{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0px auto;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    
+
+}
+.manu {
+    display: flex;
+    gap: 51px;
+    list-style-type: none ;
+    align-items: center;
+}
+nav h2{
+        font-size: 45px;
+
+
+}
+nav li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #474747;
+    text-align: center;
+    
+}
+
+.btn{
+    background: #FD6E0A;
+    padding: 19px 32px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 3px;
+}
+
+#banner{
+margin: 47px 38px 0 230px;
+display: flex;
+align-items: center;
+}
+
+.banner-conten h2{
+    font-size: 45px;
+    font-weight: 600px;
+    color: #474747;
+    margin-bottom: 5px;
+}
+.banner-conten h1{
+    font-size: 85px;
+    font-weight: bolder;
+    color: #181818;
+    margin-bottom: 20px;
+    
+    
+}
+.banner-conten p{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+
+}
+.banner-image{
+    max-width: 584px;
+    vertical-align: middle;
+}
+.about{
+    margin-top: 130px;
+}
+.about-coninter{
+    width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FFF8F3;
+    padding: 131px 157px;
+}
+.section-heding{
+    max-width: 827px;
+    text-align: center;
+
+}
+.section-heding h2{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+    margin-bottom: 30px;
+}
+.section-heding p{
+    font-size: 18px;
+    color: #757575; 
+    margin-bottom: 30px;
+}
+.about-info{
+    display: flex;
+    justify-content: space-around;
+}
+.info-card p{
+    font-size: 20px;
+    color: #757575;
+}
+.info-card h4{
+    font-size: 20px;
+    color: #474747;
+}
+.skils{
+    padding-top: 130px;
+}
+.skiles-conainer{
+    width: 1140px ;
+    margin: 0 auto;
+}
+.skils-box{
+    display: flex;
+    gap: 24px;
+    max-width: 1140px;
+    
+}
+.skils-card{
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    background-color: #FFFFFF;
+}
+.skils-card img{
+    width: 44px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.skils-card h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: #181818;
+    padding: 30px 30px 0 30px;
+}
+.skils-card p{
+    font-size: 16px;
+    color: #757575;
+    padding: 20px  33px  30px  33px;
+    height: 201px;
+}
+.em{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 827px;
+    
+}
+.em h2{
+    font-size: 35;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #181818;
+}
+.em p{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 50px;
+}
+.resume-continer{
+    display: flex;
+    width: 1093px;
+    margin: 0 auto;
+    gap: 71px;
+}
+.heding h2{
+    font-size: 35;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 130px;
+}
+.duction-hidding{
+    font-size: 30px;
+    color: #474747;
+    margin-top: 113px;
+    font-weight: bold;
+}
+.cd-rus{
+    width:511px;
+    margin-bottom: 60px;
+}
+hr{
+    margin-bottom: 20px;
+}
+.ed-h{
+    font-size: 25px;
+    margin-top: 30px;
+    color: #474747;
+    font-weight: bold;
+}
+.ed-y{
+    font-size: 20px;
+    font-weight: 600;
+    color: #474747;
+    margin-top: 10px;
+}
+.ed-li{
+    font-size: 16px;
+    color:#757575;
+    line-height: 28px;
+    margin-top: 20px;
+
+}
+.btm{
+    background: #FD6E0A;
+    padding: 19px 32px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 3px;
+    margin: 0 auto;
+    display: flex;
+}
