@@ -229,3 +229,59 @@ hr{
     margin: 0 auto;
     display: flex;
 }
+
+.main-fotter{
+    background-color: #FFF8F3;
+    margin-top: 113px;
+    height: 780px;
+}
+.main-conten{
+    display: flex;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-top: 130px;
+    gap: 117px;
+}
+
+.main-conten h2{
+    font-size: 35px;
+    font-weight: bold;
+
+}
+.sub-content p{
+    font-size: 16px;
+    max-width: 562px;
+    line-height: 28px;
+    margin-top: 20px;
+
+}
+.icon {
+    margin-top: 30px;
+    gap: 20px;
+}
+.icon a{
+    margin-left: 25px;
+}
+ .bto{
+    width: 461px;
+    padding: 18px;
+ }
+ .box-left{
+    margin-top:25px;
+    gap: 24px;
+ }
+ bot{
+    margin-top: 25px;
+    padding: 25px;
+ }
+ .input-box{
+    width: 461px;
+    padding: 18px;
+    margin-top: 28px;
+ }
+ .input-bol{
+    width: 461px;
+    padding: 18px;
+    margin-top: 28px;
+    margin-bottom: 24px;
+ }
